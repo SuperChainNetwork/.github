@@ -1,5 +1,5 @@
 # Pangea
 
-The First Immersive Web3 Environment
+Your Blockchain Copilot
 
-`A trustless data network from which to explore and interact with blockchains, enabling the best crypto experience.`
+`Boost productivity and team up with AI. Pangea turns raw blockchain data into actionable insights.`
